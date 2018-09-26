@@ -6,7 +6,7 @@
         "container"
     ],
     "homepage": "https://github.com/wanxiangcc",
-    "type": "project",
+    "type": "library",
     "require": {
 
     }
