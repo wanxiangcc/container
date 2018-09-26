@@ -1,0 +1,13 @@
+{
+    "name": "sal/container",
+    "description": "simple and light container",
+    "keywords": [
+        "framework",
+        "container"
+    ],
+    "homepage": "https://github.com/wanxiangcc",
+    "type": "project",
+    "require": {
+
+    }
+}

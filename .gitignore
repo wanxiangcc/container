@@ -1,0 +1,10 @@
+.buildpath
+.env
+.env.production
+*.test
+.idea
+.svn
+.settings
+.project
+*.DS_Store
+
