@@ -8,5 +8,7 @@
 
 class Test
 {
-
+    public function test(){
+        
+    }
 }
