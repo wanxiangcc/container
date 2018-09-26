@@ -1,19 +1,29 @@
 {
-    "name": "sal/container",
-    "description": "simple and light container",
-    "keywords": [
-        "framework",
-        "container"
-    ],
-    "homepage": "https://github.com/wanxiangcc",
-    "type": "library",
-    "license": "MIT",
-    "require": {
-        "php": ">=5.6"
-    },
-    "autoload": {
-        "psr-4": {
-            "Sal\\": "src/"
-        }
+  "name": "sal/container",
+  "description": "simple and light container",
+  "keywords": [
+    "framework",
+    "container"
+  ],
+  "homepage": "https://github.com/wanxiangcc",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sal\\": "src/"
     }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com/"
+    },
+    {
+      "type": "composer",
+      "url": "https://packagist.org/"
+    }
+  ]
 }
