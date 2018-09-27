@@ -1,5 +1,5 @@
 {
-  "name": "sal/container",
+  "name": "hiwx/container",
   "description": "simple and light container",
   "keywords": [
     "framework",
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Sal\\": "src/"
+      "Hi\\": "src/"
     }
   },
   "repositories": [
