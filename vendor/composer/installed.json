@@ -1,0 +1,39 @@
+[
+    {
+        "name": "hiwx/interfaces",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wanxiangcc/interfaces.git",
+            "reference": "680843da72a503c65747c1a7f200ffa3f271f884"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wanxiangcc/interfaces/zipball/680843da72a503c65747c1a7f200ffa3f271f884",
+            "reference": "680843da72a503c65747c1a7f200ffa3f271f884",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6"
+        },
+        "time": "2018-09-27T06:26:17+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Hi\\Interfaces\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "simple and light interfaces",
+        "homepage": "https://github.com/wanxiangcc",
+        "keywords": [
+            "framework",
+            "interface"
+        ]
+    }
+]

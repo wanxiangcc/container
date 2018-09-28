@@ -9,11 +9,13 @@
   "type": "library",
   "license": "MIT",
   "require": {
-    "php": ">=5.6"
+    "php": ">=5.6",
+    "hiwx/interfaces": "dev-master"
   },
   "autoload": {
     "psr-4": {
-      "Hi\\Container\\": "src/"
+      "Hi\\Container\\": "src/",
+      "Hi\\ContainerTest\\": "test/"
     }
   },
   "repositories": [
